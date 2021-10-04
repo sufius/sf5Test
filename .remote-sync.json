@@ -1,0 +1,19 @@
+{
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": true,
+  "hostname": "localhost",
+  "port": "2222",
+  "target": "/var/www/sf5Test",
+  "ignore": [
+    ".remote-sync.*json",
+    "**var/**",
+    "**vendor/**",
+    "**build/**",
+    "**/node_modules/**"
+  ],
+  "username": "vagrant",
+  "password": "vagrant",
+  "watch": [],
+  "transport": "scp"
+}
