@@ -3,7 +3,7 @@
   "useAtomicWrites": false,
   "deleteLocal": true,
   "hostname": "localhost",
-  "port": "2222",
+  "port": "2020",
   "target": "/var/www/sf5Test",
   "ignore": [
     ".remote-sync.*json",
